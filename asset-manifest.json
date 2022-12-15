@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-08-phonebook/static/css/main.d33dd536.css",
+    "main.js": "/goit-react-hw-08-phonebook/static/js/main.72607fef.js",
+    "static/js/304.7e99fbb6.chunk.js": "/goit-react-hw-08-phonebook/static/js/304.7e99fbb6.chunk.js",
+    "static/js/236.bb3360d0.chunk.js": "/goit-react-hw-08-phonebook/static/js/236.bb3360d0.chunk.js",
+    "static/js/286.f36e7b98.chunk.js": "/goit-react-hw-08-phonebook/static/js/286.f36e7b98.chunk.js",
+    "static/js/574.dd3a6786.chunk.js": "/goit-react-hw-08-phonebook/static/js/574.dd3a6786.chunk.js",
+    "static/js/25.e55c99e1.chunk.js": "/goit-react-hw-08-phonebook/static/js/25.e55c99e1.chunk.js",
+    "static/js/394.72913831.chunk.js": "/goit-react-hw-08-phonebook/static/js/394.72913831.chunk.js",
+    "static/js/126.46fe5c22.chunk.js": "/goit-react-hw-08-phonebook/static/js/126.46fe5c22.chunk.js",
+    "static/media/phone.jpg": "/goit-react-hw-08-phonebook/static/media/phone.3df3df19de458febf5c0.jpg",
+    "index.html": "/goit-react-hw-08-phonebook/index.html",
+    "main.d33dd536.css.map": "/goit-react-hw-08-phonebook/static/css/main.d33dd536.css.map",
+    "main.72607fef.js.map": "/goit-react-hw-08-phonebook/static/js/main.72607fef.js.map",
+    "304.7e99fbb6.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/304.7e99fbb6.chunk.js.map",
+    "236.bb3360d0.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/236.bb3360d0.chunk.js.map",
+    "286.f36e7b98.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/286.f36e7b98.chunk.js.map",
+    "574.dd3a6786.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/574.dd3a6786.chunk.js.map",
+    "25.e55c99e1.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/25.e55c99e1.chunk.js.map",
+    "394.72913831.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/394.72913831.chunk.js.map",
+    "126.46fe5c22.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/126.46fe5c22.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d33dd536.css",
+    "static/js/main.72607fef.js"
+  ]
+}
